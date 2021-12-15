@@ -8,7 +8,7 @@
  * 
  * What is this weird file?
  * 
- *    Just a shitty game library made to make vanilla JavaScript
+ *    Just a crappy game library made to make vanilla JavaScript
  *    game-making easier.
  * 
  * --------------------------------------------------------------------
